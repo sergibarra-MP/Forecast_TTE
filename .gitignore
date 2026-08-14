@@ -1,2 +1,9 @@
 ## Virtual env
 .venv/ 
+
+
+
+
+## Cache
+__pycache__/
+notebook_checkpoints/
